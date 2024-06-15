@@ -1,1 +1,1 @@
- eclipse-temurin:8-jre
+docker.io/panubo/sshd:1.5.0
