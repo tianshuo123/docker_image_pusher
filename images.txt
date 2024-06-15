@@ -1,1 +1,1 @@
-anapsix/alpine-java:8_server-jre_unlimited
+dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:dragonwell-8.11.12_jdk8u332-ga
