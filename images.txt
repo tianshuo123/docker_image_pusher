@@ -1,1 +1,1 @@
-openjdk:8-jdk-alpine
+konajdk/konajdk:8-tlinux
