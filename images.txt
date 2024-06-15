@@ -1,1 +1,5 @@
-mysql:5.7
+prom/mysqld-exporter:latest
+oliver006/redis_exporter:latest
+nginx/nginx-prometheus-exporter:latest
+prom/prometheus:latest
+prom/alertmanager:latest
