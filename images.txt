@@ -1,2 +1,1 @@
-konajdk/konajdk:8
-konajdk/konajdk:11
+dragonwell-8.10.11_jdk8u322-ga
