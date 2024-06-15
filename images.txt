@@ -1,1 +1,2 @@
-konajdk/konajdk:8-tlinux
+konajdk/konajdk:8
+konajdk/konajdk:11
