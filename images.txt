@@ -1,1 +1,1 @@
-ffdfgdfg/nps:latest
+mysql5.7
