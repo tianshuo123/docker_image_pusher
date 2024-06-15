@@ -1,1 +1,1 @@
-dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:dragonwell-8.11.12_jdk8u332-ga
+openjdk:8-jdk-alpine
