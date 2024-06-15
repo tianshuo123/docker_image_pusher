@@ -1,5 +1,3 @@
-prom/mysqld-exporter:latest
-oliver006/redis_exporter:latest
-nginx/nginx-prometheus-exporter:latest
-prom/prometheus:latest
-prom/alertmanager:latest
+adoptopenjdk/openjdk8-jre-hotspot:latest
+openjdk:8-oraclelinux8
+anapsix/alpine-java:8_server-jre_unlimited
