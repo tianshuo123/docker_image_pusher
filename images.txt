@@ -1,1 +1,1 @@
-dragonwell-8.10.11_jdk8u322-ga
+elasticsearch:7.14.1
