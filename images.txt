@@ -1,1 +1,1 @@
-kibana:7.12.1
+1340691923/elastic_view:latest
