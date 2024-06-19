@@ -1,1 +1,1 @@
-mongo:5.0.5
+mrvautin/adminmongo:latest
