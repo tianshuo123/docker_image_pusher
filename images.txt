@@ -1,1 +1,1 @@
-mrvautin/adminmongo:latest
+influxdb:1.7.8
