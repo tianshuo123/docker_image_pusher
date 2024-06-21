@@ -1,1 +1,1 @@
-influxdb:1.8.4
+alpine:3.16.0
