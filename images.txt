@@ -1,1 +1,1 @@
-taooba/mysql-auto-backup:latest
+ffdfgdfg/nps:v0.26.10
