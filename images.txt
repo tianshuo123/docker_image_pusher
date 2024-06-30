@@ -1,1 +1,1 @@
-dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:8-extended-ga-centos
+dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:8-standard-ga-centos
