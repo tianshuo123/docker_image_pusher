@@ -1,1 +1,1 @@
-openjdk:jre8
+dragonwell/dragonwell:8-centos
