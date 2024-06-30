@@ -1,1 +1,1 @@
-dragonwell/dragonwell:8-centos
+dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:8-centos
