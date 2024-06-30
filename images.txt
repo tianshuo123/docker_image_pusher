@@ -1,1 +1,1 @@
-alpine:latest
+openjdk:jre8
