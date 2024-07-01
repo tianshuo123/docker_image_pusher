@@ -1,2 +1,1 @@
-dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:8-ubuntu
-dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:8-standard-ga-ubuntu
+zlmediakit/zlmediakit:master
